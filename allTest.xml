@@ -1,0 +1,12 @@
+<suite name="TestSuite2">
+	<test name="fullReg" preserve-order="false">
+		<classes>
+			<class name="wealthsenseSiteTest.publicSiteTest" />
+			<class name="wealthsenseSiteTest.PublicDisclaimerTest" />
+			<class name="wealthsenseSiteTest.PublicPrivacyTest" />
+			<class name="wealthsenseSiteTest.RegisterNowPageTest" />
+			<class name="wealthsenseSiteTest.LoginPageTest" />
+			<class name="wealthsenseSiteTest.PrivateSiteTest" />
+		</classes>
+	</test>
+</suite>

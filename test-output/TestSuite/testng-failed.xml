@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]">
+  <test name="abcPageTesting" preserve-order="false">
+    <classes>
+      <class name="AutomationSteupTest.demo.ebaytest"/>
+    </classes>
+  </test> <!-- abcPageTesting -->
+  <test name="abcPageTesting(failed)">
+    <classes>
+      <class name="AutomationSteupTest.demo.ebaytest">
+        <methods>
+          <include name="closebrowsers"/>
+          <include name="compareEbayPageTiletoWongTitle"/>
+          <include name="openBrowserForEbayTesting"/>
+        </methods>
+      </class> <!-- AutomationSteupTest.demo.ebaytest -->
+    </classes>
+  </test> <!-- abcPageTesting(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

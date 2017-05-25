@@ -1,0 +1,7 @@
+<suite name="TestSuite2">
+	<test name="abcPageTesting" preserve-order="false">
+		<classes>
+			<class name="AutomationSteupTest.demo.TheabcTest" />
+		</classes>
+	</test>
+</suite>

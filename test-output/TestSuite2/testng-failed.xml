@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite2]">
+  <test name="fullReg" preserve-order="false">
+    <classes>
+      <class name="AutomationSteupTest.demo.ebaytest"/>
+      <class name="AutomationSteupTest.demo.TheabcTest"/>
+    </classes>
+  </test> <!-- fullReg -->
+</suite> <!-- Failed suite [TestSuite2] -->

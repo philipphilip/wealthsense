@@ -1,0 +1,8 @@
+<suite name="TestSuite2">
+	<test name="fullReg" preserve-order="false">
+		<classes>
+			<class name="AutomationSteupTest.demo.ebaytest" />
+			<class name="AutomationSteupTest.demo.TheabcTest" />
+		</classes>
+	</test>
+</suite>
